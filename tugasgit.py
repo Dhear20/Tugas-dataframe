@@ -72,3 +72,5 @@ if __name__ == "__main__":
   b = "Latihan merge "
 
  print (b)
+    
+   
