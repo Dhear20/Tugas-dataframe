@@ -69,6 +69,4 @@ def jalankan():
 if __name__ == "__main__":
     jalankan()
     
-    a = "Latihan data Frame "
-
-    print (a)
+   
