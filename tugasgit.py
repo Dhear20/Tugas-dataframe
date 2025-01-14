@@ -69,8 +69,3 @@ def jalankan():
 if __name__ == "__main__":
     jalankan()
 
-  b = "Latihan merge "
-
- print (b)
-    
-   
